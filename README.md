@@ -1,39 +1,55 @@
----
-layout: default
-title: FearMC Network
----
+# 🚀 FearMC
 
-# 🎮 به FearMC خوش آمدید
-
-این وب‌سایت رسمی **FearMC** است که بر روی پلتفرم GitHub Pages میزبانی می‌شود.
+Welcome to **FearMC Official Website**
 
 ---
 
-## 📢 درباره ما
-ما یک جامعه گیمینگ هستیم که تمرکز اصلی‌مان بر ارائه بهترین تجربه بازی برای کاربران است. در اینجا می‌توانید آخرین اخبار و آپدیت‌های سرور را دنبال کنید.
+## 🌐 About
 
-### ✨ ویژگی‌های سرور
-* **پینگ پایین:** بهینه‌شده برای تمامی کاربران.
-* **آنتی‌چیت قوی:** محیطی سالم برای رقابت.
-* **پشتیبانی ۲۴/۷:** تیم مدیریت همیشه در کنار شماست.
+FearMC is a powerful Minecraft software project focused on performance, optimization, and next-gen features.
 
 ---
 
-## 🛠 وضعیت سرور
-| بخش | وضعیت | نسخه |
-| :--- | :--- | :--- |
-| لابی اصلی | ✅ آنلاین | 1.20.1 |
-| بخش Survival | ✅ آنلاین | 1.20.1 |
-| بخش Bedwars | 🛠 در حال تعمیر | - |
+## ✨ Features
+
+- ⚡ High Performance
+- 🔧 Custom Fork System
+- 🌍 Multi-language Support
+- 🔐 Secure & Optimized Core
 
 ---
 
-## 🔗 لینک‌های مفید
-* [ورود به دیسکورد](https://discord.gg/yourlink)
-* [فروشگاه سرور](https://fearmc.github.io/shop)
-* [قوانین مجموعه](https://fearmc.github.io/rules)
+## 🚀 Get Started
 
-> 💡 **نکته:** برای اتصال به سرور از آی‌پی `play.fearmc.ir` استفاده کنید.
+👉 Download latest version soon...
 
 ---
-صفحه رسمی در [گیت‌هاب](https://github.com/fearmc/fearmc.github.io)
+
+## 📸 Preview
+
+![FearMC Banner](https://via.placeholder.com/800x200?text=FearMC)
+
+---
+
+## 🛠️ Technologies
+
+- Java
+- PaperMC Fork
+- Custom API
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/fearmc
+- Email: contact@fearmc.com
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+© 2026 FearMC
